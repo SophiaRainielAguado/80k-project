@@ -905,7 +905,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Left2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Left2.png\"}",
         "name": "Idle Left2",
         "smoothed": false,
         "userAdded": false
@@ -914,7 +914,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Left3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Left3.png\"}",
         "name": "Idle Left3",
         "smoothed": false,
         "userAdded": false
@@ -923,7 +923,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Left4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Left4.png\"}",
         "name": "Idle Left4",
         "smoothed": false,
         "userAdded": false
@@ -932,7 +932,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Left5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Left5.png\"}",
         "name": "Idle Left5",
         "smoothed": false,
         "userAdded": false
@@ -941,7 +941,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Right.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Right.png\"}",
         "name": "Idle Right",
         "smoothed": false,
         "userAdded": false
@@ -950,7 +950,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Right2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Right2.png\"}",
         "name": "Idle Right2",
         "smoothed": false,
         "userAdded": false
@@ -959,7 +959,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Right3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Right3.png\"}",
         "name": "Idle Right3",
         "smoothed": false,
         "userAdded": false
@@ -968,7 +968,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Up.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Up.png\"}",
         "name": "Idle Up",
         "smoothed": false,
         "userAdded": false
@@ -977,7 +977,7 @@
         "alwaysLoaded": false,
         "file": "assets/Idle Up2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Up2.png\"}",
         "name": "Idle Up2",
         "smoothed": false,
         "userAdded": false
@@ -1022,7 +1022,7 @@
         "alwaysLoaded": false,
         "file": "NPC1_Sunflower_Idle_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"NPC1_Sunflower_Idle_1.png\",\"extension\":\".png\"}",
         "name": "NPC1_Sunflower_Idle_1.png",
         "smoothed": false,
         "userAdded": false
@@ -1031,7 +1031,7 @@
         "alwaysLoaded": false,
         "file": "NPC1_Sunflower_Idle_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"NPC1_Sunflower_Idle_2.png\",\"extension\":\".png\"}",
         "name": "NPC1_Sunflower_Idle_2.png",
         "smoothed": false,
         "userAdded": false
@@ -1060,6 +1060,150 @@
         "kind": "image",
         "metadata": "",
         "name": "Titlescreen.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle.png\"}",
+        "name": "Idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle2.png\"}",
+        "name": "Idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle3.png\"}",
+        "name": "Idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle4.png\"}",
+        "name": "Idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle5.png\"}",
+        "name": "Idle5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle6.png\"}",
+        "name": "Idle6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle7.png\"}",
+        "name": "Idle7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle8.png\"}",
+        "name": "Idle8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle16",
         "smoothed": false,
         "userAdded": false
       }
@@ -1093,7 +1237,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.6756348079903973,
+        "zoomFactor": 3.4886009751389864,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1398,6 +1542,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "NPC2_Lily",
+          "persistentUuid": "c68e6c71-a311-4b55-b9f7-371b8f1e4a0a",
+          "width": 0,
+          "x": 816,
+          "y": 232,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "NPC3_Rose",
+          "persistentUuid": "034adefb-6714-4079-a426-f14d13259a10",
+          "width": 0,
+          "x": 816,
+          "y": 216,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1441,7 +1617,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Down\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":8,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAbBJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMdPEfqF1Q0579gYCAUCpfpBFlMagKToRwkAfI6HhQi+QKBUP8zz9IwAnAFw/BUPSiqwFPsC5hMbAJTqx5UNiLWfWP3wAADFXvQfNri+oMkxKGasy10C5y9l+YWRFSjVjx77lAYgsfqxBgC652E+hwUCoQCgVD84MOgUARhZoC7Tn0FfTZjBd9kThs1RMmC/w9gXb71laJq+EWdBCEoF5OpHTkGUBiAp+nEGgHXtXoajzc7gAICxSQkASvXTKwKwVoOwWEQuBAh5HqYWORWQqh9ZL6UBSKx+rLVAmrIPg/PTSyiF4F5pPYZZd7cQVQuQqx9WENIzAjACYG1/EjjPM9sYowTA3yNnwWVCcOE8vGUApfpBbQBQAGKzn5QIIFY/1ixgKyUB9vzhZy/ANDKfmJYgufpBWQAUgBO6t2G1v6DUi6gIIEU/1rY9rCkJ8yw6n1BbnRL9yM1YdPtB9hITAfBqG9p3wWYmTA1RnRtCHh7K8gB1RQQ32v17WQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMd/jE5g4BGTRHHHl1fPGfiXLmAgFAiU6gdZSmkAkqIfJQBwOR4WEoQCgVL9MM/TMwIGVQBQGoDk6IcHAEjzdWasWR8jS2r+ZcTICpTqxxf7tEyB4ADAlWcIFUaw8oBS/TA3DEQEYGQBkCOWpwUwRM7aAKZBAMYG0dhiHxZQsFRAqn5KA5AS/RgBUJfpz6CvJsxgXbuX4WizM9hvMPbFW28ZmqZvxFkTgBxCqX56R8CgqgapEYCkRgDWLKBs5M7AbGOMUgT8PXKW4e65nURlAXL1D4pq8G9hJQPIs9gAKFCY+9vxZgFK9YOyALkBCCuDSNGPNQvASmNQgQcCyHxiWoLk6gd5ABSAtya1ge1Ft18tr4qoCCBFP9a2PaxURa/mCHkeuTYAscnRj1yiY6tmCbmBVP1EdW4ItQeGsjwAQ1PyKNcsgawAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Kid 1_Idle Down_1.png\",\"Kid 1_Idle Down_2.png\",\"Kid 1_Idle Down_3.png\",\"Kid 1_Idle Down_4.png\"],\"name\":\"Idle Down\"}}",
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -1598,7 +1774,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Left\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZ1JREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnDxKdUijVT+8IQfEYyPFThH5huCHnHRsDMYFAqX6QxZQGIKn64QGAy/Gw0CAUCJTqh3me3hGAEgDRf9gwYt9S7AtYjJgAoFQ/Ns/TOgJQAqAu059BX00YHgjrcpegBMhSll84swIoBVCqn9IAJEc/SgCs7U/CSAHIgUAoACjVT2kAkqMfawD4LnvCsDlKBhwYF2+9Zbg7eTsDPs/D8i8sACjVjxwLtI4ArAFgXbuX4WizMzwAmqZvJFgLgLIALAAo1U9pAJKiH6MaRE7GoNgnxvOwGEMOBFjqIVY/NQOQlAjAaOCAHGIrJQH2U/iPRwxpyj4MbKd3EUwByIFArn5sAVhz5jvR9pOjHyMF/C2sBPtlg9xLhufNM0gKAJADqKH/75GzDM5PL5EcATD7SdGPNwWAAuLwsxdExz6sMISlAEr0F5R6gSOAUPsDvdqCpWBi9WNt4yM3J4lpAmNzBExssOsnupND704KvewDAPTtxCgh7vCHAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAYFJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnDxKdUijVT+8IQfEYyPF/CytR3PDl1XMG/qULGIgJBEr1gyymNABJ1Q8PAGyOh4UEMYFAqX6Y5+kdAYMmACgNQHL1owTAdWaM7I+SHTT/MuLMCiAHUKofPfbpkQLBAYAt3+ArjNDLA0r1w9xAaQCSox8lBdRl+oP9HTlrA8PytAAwDQP4Yh/mAXL1UxqAlOhHCYC1/Ulg/1rX7mU42uwMZmuVzGUAef5jdALD3qJEnNUhyBGU6ic3ACmJALyFIKz0B+XNjTEeeNsC+KpAYvVTGoDk6McaACCPg8CzFfPBsQ/K8/5LdvzHFwjIAUCpfvTCj9gAxFWF4tOP0RD6ZeoGtp/Zxpjh1qQ2eAAQ00IDBQKl+mGeAAUiKRGA3o4gVj9GskavzggVfugBQw39oEAkJwJggUCKfqz5GrlUJaYJjC0QYGKDXT/RnRxissBQVAMADXq+KLdzTKUAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Idle Left2\",\"Idle Left3\",\"Idle Left4\",\"Idle Left5\"],\"name\":\"Idle Left\"}}",
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -1755,7 +1931,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Right\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZpJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQaJTDaX66RE5OD0DcvwUoV8Ybsh5x8ZATCBQqh9kMaUBSIx+rAGAy/Gw0CAUCJTqh3meHhFAMACOv+LBSAVLWX7hTQXIAUCpfmzZgJoRgBEAIMdH/2FDsTdocgycf/HWW4am6RtxBgCl+tFjn9IAJKSfYAAgex4WCsGF84gOAEr1gwOEhhGAMwuAUoFyrieDvpow2N++y54wbI6SAbPxBQAsBsnVj56CKA1AQvrx1gJ1mf7wALCu3ctwtNmZqACABQK5+mGBQI8IwFungxyC7AliYh+58KBEP7peWkUA3hTwy9SNYdbdLQwrOeTA/jr87AVRbQBYCqCG/hYTTngqJCUCQAEIsp+QfqICQLI2gyHgkTg4EJj724kKBJgDQAFIqX5QBOyV1mNgtjEmy358+glmAVspCXiqJiUFwFIBpfpBjSFQAE7o3kZSCkSuTvHpJ9iuR25OEtMERm+4DHb9BAOAHh2SgbQDAJNioCh8660vAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQaJTDaX66RE5OD0DcvzH6AQGHjFJFHcw97czEBMIlOoHWUppABKjH2sA4HI8LCQIBQKl+mGep0cEDMoAoDQASdGPEQAgzdeZMbI+SjbQ/MuIMxtQqh9f7NMiBaIEALY8g68gQi8LKNUP8zw9IwBnFkB2xPK0AIbIWRsYQDQINE3fiLcgRE8FxOqnNADJ0Y81AJz75v/nX7qAARQI13qSwZ62rt3LcLTZGcwOLpyHNwAo1U9uAMJSKyn6cVaD/kt2/AeV9uSWxJTqh3mCnAhAzkqE9GMNAJDjN8Z4MMIcIRWRiNIeIFQNUqofOSbJjQBiq1K8rTpYAKjlVTH8PXIW7C6207uIagghxwKl+pEjgFDgIxfa2CIQXT9RAQAzFF/1h622QM+L5OqHBSApgY8tArDpJ9iuRy5ZiWkCowfEYNdPMADo0SEZSDsArN6GKJo5kQYAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Idle Right\",\"Idle Right2\",\"Idle Right3\",\"Kid 1_Idle Right_3.png\"],\"name\":\"Idle Right\"}}",
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -1912,7 +2088,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Up\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAY9JREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMdPEfqF1Q0579gYCAUCpfpBFlMagKToRwkAfI6HhQi+QKBUP8zz9IyAQRUAlAYgOfrhAQDSHP2HDRzRlmJfsGaB4694wOJLWX5hZAVK9ROKfVqlQKwBQKgQIhQAlOqnZwRgZAFYKsDlCWyeh6lFTgWk6idGL8xMakYARgDUZfoz3J28Hav7lXM9GZqmb8RZE4A8Qal+ekcA1moQ5Al9NWGUQLh46y1ezyOnAnL1UyMASY0ArLVAmrIPg/PTSygBsFdaj2HW3S0MxFSD5OqHFYTkBiA5+jECYG1/EoPvsicMzDbGKAHw98hZhs1RMgzBhfPwZgFK9YPaAKAAxGY/KRFArH6sWcBWSgLs+cPPXoBpZD4xLUFy9YOyACgAJ3Rvw2p/QakXURFAin6sbXtYUxLmWXQ+oWqOEv3IzVh0+0H2EhMBMPcRo5+ozg0hDw9leQCHOrAo7+T77QAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMf/LazE6gbm/nYGQoFAqX6QxZQGICn6UQIApPFjdAIDj5gk1gD48uo5A//SBTgDgVL9MM/TMwLgAQALNWICAORQ9JRAqX6Y54mxH1cqJCcCwAEA0/hsxXwGqYhEcOyjpwJQ7IMATA1ySqBUP3KyJyYAqBkBOAMAV0FEbABQqp9eEYCSBUChj5wK0D2BzfMwNdhSAbH6idELM4vaEYASALDC59akNqwRqJZXBRbHVhsgl/7k6h+ICMCoBXCVwLAQwVcV4qsCCemnRgCSE4EYAUBMIwRfKUypfnpHANYU8PfIWewNIRtjrMkfuRwAeYAS/ZQGIKn6sbYErzNDWsKafyHSyHxiWoLk6odlA1gZgm4/qAwiJguSoh9r2x7WqIF5Fp1PKJQp0Y/cjEW3H1v9j+4WUvUT1bkh5OGhLA8Am83aKGfSnUYAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[2]}}\",\"resourceNames\":[\"Idle Up\",\"Kid 1_Idle Up_1.png\",\"Idle Up2\",\"Kid 1_Idle Up_3.png\"],\"name\":\"Idle Up\"}}",
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -2769,11 +2945,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NPC1_Sunflower_Idle_1.png",
+                      "image": "Idle13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2809,7 +2986,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NPC1_Sunflower_Idle_2.png",
+                      "image": "Idle14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2845,7 +3022,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NPC1_Sunflower_Idle_1.png",
+                      "image": "Idle15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2881,7 +3058,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NPC1_Sunflower_Idle_1.png",
+                      "image": "Idle16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2995,6 +3172,344 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9527eb28c98d8093e8c2b434578dd9cdee50a19c8c8b91be2208298ee0dcade2",
+          "name": "NPC2_Lily",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 23
+                          },
+                          {
+                            "x": 3,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 23
+                          },
+                          {
+                            "x": 3,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 23
+                          },
+                          {
+                            "x": 3,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 10
+                          },
+                          {
+                            "x": 13,
+                            "y": 23
+                          },
+                          {
+                            "x": 3,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9527eb28c98d8093e8c2b434578dd9cdee50a19c8c8b91be2208298ee0dcade2",
+          "name": "NPC3_Rose",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 23
+                          },
+                          {
+                            "x": 2,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 23
+                          },
+                          {
+                            "x": 2,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 23
+                          },
+                          {
+                            "x": 2,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 23
+                          },
+                          {
+                            "x": 2,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3008,6 +3523,12 @@
               },
               {
                 "objectName": "NPC1_Sunflower"
+              },
+              {
+                "objectName": "NPC2_Lily"
+              },
+              {
+                "objectName": "NPC3_Rose"
               },
               {
                 "objectName": "DeadBush"
@@ -3648,13 +4169,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 2,
               "leftEdgeAnchor": 1,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": true,
               "rightEdgeAnchor": 2,
               "topEdgeAnchor": 1,
-              "type": "AnchorBehavior::AnchorBehavior",
               "useLegacyBottomAndRightAnchors": false
             }
           ]
