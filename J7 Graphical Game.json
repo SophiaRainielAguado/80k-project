@@ -1017,6 +1017,51 @@
         "name": "Walk Up2",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC1_Sunflower_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC1_Sunflower_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC1_Sunflower_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC1_Sunflower_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DeadBush.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DeadBush.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DeadBush2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DeadBush2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1039,16 +1084,16 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 1.2478331320203846,
+        "snap": true,
+        "zoomFactor": 2.6756348079903973,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1069,8 +1114,8 @@
           "name": "Player",
           "persistentUuid": "e04de6f3-62b2-426f-ba99-69bb61092fde",
           "width": 0,
-          "x": 750,
-          "y": 358,
+          "x": 752,
+          "y": 360,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1085,8 +1130,8 @@
           "name": "Brick",
           "persistentUuid": "a66216bc-6d2f-4d47-b93e-0ba7890f4700",
           "width": 0,
-          "x": 914,
-          "y": 333,
+          "x": 912,
+          "y": 336,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1101,8 +1146,8 @@
           "name": "Brick",
           "persistentUuid": "cbe794ae-7c47-47da-8dee-2f6d53fa5965",
           "width": 0,
-          "x": 711,
-          "y": 430,
+          "x": 720,
+          "y": 432,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1117,8 +1162,8 @@
           "name": "Brick",
           "persistentUuid": "c0d2fd60-64ab-469f-aade-d41bc4f436ec",
           "width": 0,
-          "x": 778,
-          "y": 229,
+          "x": 768,
+          "y": 240,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1133,8 +1178,8 @@
           "name": "Brick",
           "persistentUuid": "441bb9eb-b18f-4079-98b8-b9fbdaa610de",
           "width": 0,
-          "x": 609,
-          "y": 246,
+          "x": 608,
+          "y": 256,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1149,8 +1194,8 @@
           "name": "Brick",
           "persistentUuid": "fdebfc3e-33f4-4c1b-b987-83156ae620d4",
           "width": 0,
-          "x": 548,
-          "y": 386,
+          "x": 544,
+          "y": 384,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1165,8 +1210,8 @@
           "name": "Brick",
           "persistentUuid": "d69b558f-5d21-4c67-b1e8-25a40fc736e6",
           "width": 0,
-          "x": 425,
-          "y": 237,
+          "x": 432,
+          "y": 240,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1176,133 +1221,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 7,
+          "height": 24,
           "keepRatio": true,
           "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "42322776-e8b5-4815-ad5e-8c475d792e78",
-          "width": 7,
-          "x": 822,
-          "y": 268,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "b9cf4bda-9a0c-4e07-9f39-80ddf69c39e8",
-          "width": 7,
-          "x": 909,
-          "y": 242,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "a8135076-6c3e-4d08-9820-0b3d8ea072dc",
-          "width": 7,
-          "x": 672,
-          "y": 233,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "67b8719d-3776-40e6-9b45-57ad37ffeca2",
-          "width": 7,
-          "x": 611,
-          "y": 335,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "5c115a2c-ff58-40bd-9855-1e5a9375415f",
-          "width": 7,
-          "x": 770,
-          "y": 179,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "f6480431-6a1e-42f1-aebd-7913225ee876",
-          "width": 7,
-          "x": 920,
-          "y": 295,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "FlowerBulb",
-          "persistentUuid": "6f094cbe-34cc-4158-9374-4f16eacae269",
-          "width": 7,
-          "x": 874,
-          "y": 207,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "keepRatio": true,
-          "layer": "interactives",
-          "name": "NPC",
+          "name": "NPC1_Sunflower",
           "persistentUuid": "9dae5b53-1f1b-432b-b985-8e2f491228a5",
-          "width": 14,
-          "x": 773,
-          "y": 256,
+          "width": 16,
+          "x": 816,
+          "y": 248,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -1317,8 +1243,8 @@
           "name": "NewTileMap",
           "persistentUuid": "c83868b1-bcec-4a3a-ae5b-13aa17dd56b9",
           "width": 0,
-          "x": 547,
-          "y": 184,
+          "x": 544,
+          "y": 176,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [
@@ -1327,6 +1253,150 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":25,\"dimY\":25,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,112,0,0,80,0,16,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0],[0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,112,16,32,65,0,0,0],[0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,32,0,0,0,0,0,64,80,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0],[0,0,0,0,0,0,0,0,113,0,0,0,32,0,0,0,0,0,0,113,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,65,16,0,0,0,0,0,0,80,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0],[0,0,64,0,0,16,0,0,0,0,32,0,0,0,0,0,0,0,0,0,64,0,0,0,0],[0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0],[0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,16,0,0,113,0,0,0,0,0,0,0,65,32,0,0,64,0,0],[0,0,0,0,32,0,0,0,0,0,0,0,0,0,80,0,0,0,0,16,0,0,0,0,0],[0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,32,0,0,0,32,0,0,0],[112,0,0,81,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,16,64,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,80,80],[0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,113,0,0,16,0,0,0,0,81,0],[0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0],[0,0,0,32,0,64,0,0,80,0,0,0,0,0,32,0,32,0,0,80,0,0,0,0,0],[0,0,113,0,0,0,64,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,64,0,0],[0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,112,80,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "991a55e1-ddb9-4a53-b1cb-c58f1e08c484",
+          "width": 0,
+          "x": 832,
+          "y": 256,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "bac413aa-8ece-4174-b3d5-88f01e2c7094",
+          "width": 0,
+          "x": 576,
+          "y": 368,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "a9ed14c0-1e80-4878-b447-0cbd75038f8a",
+          "width": 0,
+          "x": 624,
+          "y": 224,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "66b5c3cb-d40b-48d4-a7c6-1e812f2febd3",
+          "width": 0,
+          "x": 704,
+          "y": 192,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "a8d68a5e-272b-44aa-9916-bce70c8de650",
+          "width": 0,
+          "x": 896,
+          "y": 464,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "cb0354ee-7b96-4cf0-a25e-b8333d0056f6",
+          "width": 0,
+          "x": 576,
+          "y": 432,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "f98fb78b-f5da-4b17-a643-9c89c474b6c7",
+          "width": 0,
+          "x": 688,
+          "y": 560,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "b8f7172e-70d1-4c1e-90ff-f74b1e4a03b0",
+          "width": 0,
+          "x": 848,
+          "y": 544,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "DeadBush",
+          "persistentUuid": "a6d0a3c9-02c4-4dec-a1b3-8f46645e6411",
+          "width": 0,
+          "x": 736,
+          "y": 432,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -2685,116 +2755,8 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "2f988b46aa5f714ce665a31559ff0208ada4b3d80589b9cc98148fdbdc46a71d",
-          "name": "FlowerBulb",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Flower Bulb_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 3,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Flower Bulb_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 3,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "9527eb28c98d8093e8c2b434578dd9cdee50a19c8c8b91be2208298ee0dcade2",
-          "name": "NPC",
+          "name": "NPC1_Sunflower",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2802,16 +2764,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.025,
+                  "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Person.png2",
+                      "image": "NPC1_Sunflower_Idle_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2828,19 +2790,127 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 10
                           },
                           {
-                            "x": 12,
-                            "y": 0
+                            "x": 16,
+                            "y": 10
                           },
                           {
-                            "x": 12,
-                            "y": 14
+                            "x": 16,
+                            "y": 23
                           },
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NPC1_Sunflower_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NPC1_Sunflower_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NPC1_Sunflower_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 10
+                          },
+                          {
+                            "x": 16,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2865,6 +2935,66 @@
             "tileSize": 16,
             "tilesWithHitBox": ""
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "DeadBush",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DeadBush2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 14,
+                            "y": 1
+                          },
+                          {
+                            "x": 14,
+                            "y": 14
+                          },
+                          {
+                            "x": 1,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2877,10 +3007,10 @@
                 "objectName": "NewTileMap"
               },
               {
-                "objectName": "NPC"
+                "objectName": "NPC1_Sunflower"
               },
               {
-                "objectName": "FlowerBulb"
+                "objectName": "DeadBush"
               }
             ]
           },
@@ -3168,7 +3298,7 @@
               },
               "parameters": [
                 "Player",
-                "FlowerBulb",
+                "DeadBush",
                 "",
                 "",
                 ""
@@ -3190,7 +3320,7 @@
                 "value": "Delete"
               },
               "parameters": [
-                "FlowerBulb",
+                "DeadBush",
                 ""
               ]
             },
@@ -3215,7 +3345,7 @@
               },
               "parameters": [
                 "Player",
-                "NPC",
+                "NPC1_Sunflower",
                 "",
                 "",
                 ""
@@ -3253,7 +3383,7 @@
               },
               "parameters": [
                 "Player",
-                "FlowerBulb",
+                "DeadBush",
                 ""
               ]
             },
@@ -3263,7 +3393,7 @@
               },
               "parameters": [
                 "Player",
-                "NPC",
+                "NPC1_Sunflower",
                 ""
               ]
             }
@@ -3455,6 +3585,152 @@
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "TitleScreen",
+      "name": "TitleScreen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewPanelSprite",
+          "persistentUuid": "6e472fdc-82d1-4c39-b79c-802eaee3de4a",
+          "width": 0,
+          "x": -2,
+          "y": 3,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 720,
+          "leftMargin": 0,
+          "name": "NewPanelSprite",
+          "rightMargin": 0,
+          "texture": "Titlescreen.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 1280,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "bottomEdgeAnchor": 2,
+              "leftEdgeAnchor": 1,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewPanelSprite"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
         }
       ]
     }
