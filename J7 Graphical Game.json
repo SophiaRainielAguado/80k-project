@@ -1206,6 +1206,24 @@
         "name": "Idle16",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tilemap2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tilemap2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tilemap3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tilemap3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1237,7 +1255,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 3.4886009751389864,
+        "zoomFactor": 2.8591237448722455,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1573,6 +1591,27 @@
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "Fence",
+          "persistentUuid": "293a3771-23ff-45ff-b777-5219cf126f69",
+          "width": 0,
+          "x": 560,
+          "y": 464,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":10,\"dimY\":6,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[110,14,14,14,31,-1,-1,-1,-1,-1],[62,-1,-1,-1,-1,-1,-1,-1,-1,63],[62,-1,-1,-1,-1,-1,-1,-1,-1,62],[62,-1,-1,-1,-1,-1,-1,-1,-1,62],[62,-1,-1,-1,-1,-1,-1,-1,-1,62],[126,14,14,14,14,14,14,14,14,127]]}]}"
+            }
+          ],
           "initialVariables": []
         }
       ],
@@ -3106,7 +3145,7 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "atlasImage": "assets/background/tilemap.png",
+            "atlasImage": "tilemap2.png",
             "rowCount": 9,
             "columnCount": 16,
             "tileSize": 16,
@@ -3510,6 +3549,21 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Fence",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "tilemap3.png",
+            "rowCount": 9,
+            "columnCount": 16,
+            "tileSize": 16,
+            "tilesWithHitBox": ""
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -3520,6 +3574,9 @@
             "children": [
               {
                 "objectName": "NewTileMap"
+              },
+              {
+                "objectName": "Fence"
               },
               {
                 "objectName": "NPC1_Sunflower"
